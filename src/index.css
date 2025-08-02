@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+:root {
+  color-scheme: light dark;
+  color: black;
+  background-color: white;
+}
+
+
+.borders{
+  border: 1px solid red;
+}
+
