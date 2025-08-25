@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provide
+This template provid
 
 
 
